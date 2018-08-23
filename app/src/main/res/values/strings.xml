@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppCalculator</string>
+    <string name="number">เลข</string>
+    <string name="plus_symbol">+</string>
+    <string name="amount_symbol">=</string>
+    <string name="question_marks">\?</string>
+</resources>
